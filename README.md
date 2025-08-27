@@ -1,2 +1,2 @@
-# C_CSE_BATCH48
+# 100 Days of code
 PROGRAMMING IN C
